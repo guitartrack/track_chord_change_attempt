@@ -1,1 +1,7 @@
-{}
+{
+    "payload": {
+        "from_chord": "E",
+        "to_chord": "A",
+        "count": 60
+    }
+}
